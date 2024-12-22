@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="category_prompt">Select a Category</string>
+
+    <string-array name="category_array">
+        <item>Tool</item>
+        <item>Material</item>
+        <item>Container</item>
+        <item>Supplies</item>
+    </string-array>
+</resources>
